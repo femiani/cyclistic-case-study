@@ -1,5 +1,5 @@
-# cyclistic-case-study
-Exploratory Data Analysis on the cyclistic case study using R. Capstone project from Google Data Analytics Professional Certification.
+# Cyclistic-case-study
+## Google Data Analytics Capstone Project
 
 <img src="https://user-images.githubusercontent.com/42643363/182134739-444df12e-69ce-45a6-b435-f29f9e01deac.png" width="400" height="400" />
 
