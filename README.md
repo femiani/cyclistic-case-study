@@ -26,5 +26,5 @@ Tools:
 R for Data Cleaning, Data Transformation, Data Visualisation and Data Analysis.
 Tableau for Data Visualization 
 
-Full case study posted on [kaggle]('https://www.kaggle.com/anibijuwonfemi/cyclistic-google-data-analytics")
+Full case study posted on [kaggle]('https://www.kaggle.com/anibijuwonfemi/cyclistic-google-data-analytics')
 
